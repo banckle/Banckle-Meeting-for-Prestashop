@@ -1,0 +1,8 @@
+Prestashop Banckle Meeting module installation instructions:
+
+1. Go to your PrestaShop’s back end (admin panel) and log in.
+2. Now click on Modules tab.
+3. Click on Add a module from my computer, then browse Banckle Meeting zip file and click on Upload this module.
+4. Click on Other Modules and it will expand up. Now click on Install button .
+5. After that click on Configure.
+
